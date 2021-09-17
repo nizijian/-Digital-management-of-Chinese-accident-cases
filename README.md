@@ -4,11 +4,11 @@
 
 ## Accident Cases
 案例数据
-### Construction accidents
+### construction_accidents
 建筑领域的事故案例
-### Hazmat road accidents
+### hazmat road accidents
 危化品运输领域的事故案例
-### Traffic accidents
+### traffic accidents
 交通领域的事故案例
 
 
